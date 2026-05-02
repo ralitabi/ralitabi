@@ -18,7 +18,7 @@
 - Developed a **robust face recognition system** handling occlusions  
 - Created **financial prediction models** using ML techniques  
 - Worked on **zero-shot image classification (CLIP)**
-- Made a **AI UK hHouse Price Predictor**  
+- Made a **AI UK House Price Predictor**  
 
 ---
 
