@@ -1,4 +1,4 @@
-\# Raja Ali Tabish
+# Raja Ali Tabish
 
 AI Graduate (July 2026), UK  
 Interested in Conversational AI, Natural Language Processing, Computer Vision, and Predictive Modelling  
@@ -17,7 +17,7 @@ An AI-powered assistant designed to help citizens navigate council services usin
 - Designed with accessibility and usability in mind  
 - Integrates with backend services and APIs  
 
-Project link: https://github.com/ralitabi/conversational-ai-agent
+[View Project on GitHub](https://github.com/ralitabi/conversational-ai-agent)
 
 ---
 
@@ -59,21 +59,15 @@ Interested in building scalable AI systems that solve real-world problems, parti
 
 ---
 
-## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralitabi&show_icons=true&theme=default&hide_border=true)
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ralitabi&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ralitabi&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ralitabi&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ralitabi&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralitabi&layout=compact&theme=default&hide_border=true)
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-ali-tabish-9062b42b4/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajaalitabish8900)
+### Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=ralitabi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ralitabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ralitabi&color=blue)
