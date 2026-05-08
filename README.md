@@ -52,12 +52,21 @@ An AI-powered assistant designed to help citizens navigate council services usin
 - UK AI House Price Predictor — predictive modelling system for estimating UK house prices  
 
 ---
+##  Languages & Tools
+<p align="center">
+  <a href="https://github.com/ralitabi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ralitabi&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+---
 
 ## Career Focus
 
 Interested in building scalable AI systems that solve real-world problems, particularly in public services, automation, computer vision, and predictive analytics.
 
 ---
+
+
 
 
 ## Contact
